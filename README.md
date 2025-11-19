@@ -13,3 +13,11 @@ iRingo 🍎
 https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/
 
 #翻墙配置丨模块丨重写丨插件
+
+AdRules 💎
+
+中国区域广告屏蔽规则合集，覆盖广告屏蔽和 DNS 过滤场景，方便根据平台选择部署，所有规则实时从上游源更新，支持通过脚本生成最新 Raw 链接，便于与 AdGuard、浏览器插件或智能 DNS 工具集成
+
+👉🏻https://adrules.top/
+
+#翻墙配置丨插件
